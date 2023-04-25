@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-typescrip",
+  "version": "1.0.0",
+  "description": "curso de typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FDE90/proyecto-typescripts.git"
+  },
+  "keywords": [
+    "type-script"
+  ],
+  "author": "fwhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FDE90/proyecto-typescripts/issues"
+  },
+  "homepage": "https://github.com/FDE90/proyecto-typescripts#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  }
+}
